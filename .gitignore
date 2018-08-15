@@ -1,0 +1,7 @@
+configuration/logging.properties
+deployments
+data/*
+log
+tmp
+!data/content
+
