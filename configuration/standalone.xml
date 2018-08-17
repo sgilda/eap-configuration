@@ -135,7 +135,7 @@
                 <in-memory/>
             </job-repository>
             <thread-pool name="batch">
-                <max-threads count="10"/>
+                <max-threads count="11"/>
                 <keepalive-time time="30" unit="seconds"/>
             </thread-pool>
         </subsystem>
